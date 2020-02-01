@@ -71,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580484656982</updated>
       <workItem from="1580484665843" duration="5311000" />
+      <workItem from="1580507106339" duration="715000" />
     </task>
     <task id="LOCAL-00001" summary="added first test">
       <created>1580487613772</created>
@@ -110,10 +111,11 @@
     </state>
     <state x="467" y="242" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1366.-161.1920.1057/0.23.1366.745@0.23.1366.745" timestamp="1580488128092" />
     <state x="2022" y="133" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1366.-184.1920.1080/0.23.1366.745@1366.-184.1920.1080" timestamp="1580488728635" />
-    <state x="1741" y="-184" key="CommitChangelistDialog2" timestamp="1580490810172">
-      <screen x="1366" y="-184" width="1920" height="1080" />
+    <state x="1741" y="-161" key="CommitChangelistDialog2" timestamp="1580495486157">
+      <screen x="1366" y="-161" width="1920" height="1057" />
     </state>
     <state x="267" y="23" key="CommitChangelistDialog2/1366.-161.1920.1057/0.23.1366.745@0.23.1366.745" timestamp="1580487613413" />
+    <state x="1741" y="-161" key="CommitChangelistDialog2/1366.-161.1920.1057/0.23.1366.745@1366.-161.1920.1057" timestamp="1580495486157" />
     <state x="1741" y="-184" key="CommitChangelistDialog2/1366.-184.1920.1080/0.0.1366.768@1366.-184.1920.1080" timestamp="1580490810172" />
     <state width="1878" height="447" key="GridCell.Tab.0.bottom" timestamp="1580495372117">
       <screen x="1366" y="-161" width="1920" height="1057" />
@@ -147,11 +149,16 @@
       <screen x="0" y="23" width="1366" height="745" />
     </state>
     <state x="181" y="23" key="SettingsEditor/1366.-161.1920.1057/0.23.1366.745@0.23.1366.745" timestamp="1580487154025" />
-    <state x="1778" y="-51" key="Vcs.Push.Dialog.v2" timestamp="1580490820713">
-      <screen x="1366" y="-184" width="1920" height="1080" />
+    <state x="1778" y="-31" key="Vcs.Push.Dialog.v2" timestamp="1580495494525">
+      <screen x="1366" y="-161" width="1920" height="1057" />
     </state>
     <state x="293" y="115" key="Vcs.Push.Dialog.v2/1366.-161.1920.1057/0.23.1366.745@0.23.1366.745" timestamp="1580487617991" />
+    <state x="1778" y="-31" key="Vcs.Push.Dialog.v2/1366.-161.1920.1057/0.23.1366.745@1366.-161.1920.1057" timestamp="1580495494525" />
     <state x="1778" y="-51" key="Vcs.Push.Dialog.v2/1366.-184.1920.1080/0.0.1366.768@1366.-184.1920.1080" timestamp="1580490820713" />
+    <state x="2250" y="69" key="com.intellij.ide.util.TipDialog" timestamp="1580553146667">
+      <screen x="1366" y="-161" width="1920" height="1057" />
+    </state>
+    <state x="2250" y="69" key="com.intellij.ide.util.TipDialog/1366.-161.1920.1057/0.23.1366.745@1366.-161.1920.1057" timestamp="1580553146666" />
     <state x="405" y="296" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580487128697">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
