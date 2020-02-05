@@ -21,7 +21,7 @@
     </properties>
     <groupId>org.julian</groupId>
     <artifactId>internshipJulian</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version> 
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
